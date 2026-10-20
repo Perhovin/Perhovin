@@ -1,10 +1,10 @@
 # Hi, I'm Mykhailo Shelestiuk ðŸ‘‹
 ### Future Robotics Engineer & Software Developer
 
-ðŸŽ“ **Student at Tomas Bata University in ZlÃ­n (UTB)**  
-ðŸ“ **Czech Republic**  
-ðŸŽ¯ **Focus:** Robotics, Automation, System Design, C#, Python & Unreal Engine 5  
-ðŸ’¼ **Goal:** Seeking Robotics / AI / Software Internship
+- ðŸŽ“ **Student at Tomas Bata University in ZlÃ­n (UTB)**
+- ðŸ“ **Czech Republic**
+- ðŸŽ¯ **Focus:** Robotics, Automation, System Design, C#, Python & Unreal Engine 5
+- ðŸ’¼ **Goal:** Seeking Robotics / AI / Software Internship
 
 ---
 
