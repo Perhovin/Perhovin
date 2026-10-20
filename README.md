@@ -1,4 +1,4 @@
-Student at Tomas Bata University in ZlÃ­n (UTB)**  
+Student at Tomas Bata University in Zlín (UTB)
 Czech Republic  
 Focus: Robotics, Automation, System Design, C#, Python & Unreal Engine 5  
 Goal: Seeking Robotics / AI / Software Internship
