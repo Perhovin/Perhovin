@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mykhailo Shelestiuk ðŸ‘‹
+### Future Robotics Engineer & Software Developer
 
-<!--
-**Perhovin/Perhovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ðŸŽ“ **Student at Tomas Bata University in ZlÃ­n (UTB)**  
+ðŸ“ **Czech Republic**  
+ðŸŽ¯ **Focus:** Robotics, Automation, System Design, C#, Python & Unreal Engine 5  
+ðŸ’¼ **Goal:** Seeking Robotics / AI / Software Internship
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ðŸ›  Tech Stack & Skills
+- **Languages:** C#, C++, Python
+- **Robotics & Simulation:** Automation, System Design, UE5
+- **Core Principles:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Clean Architecture
+- **Tools & Environments:** Git & GitHub, VS Code, Visual Studio Build Tools, MSYS2/GCC
