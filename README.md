@@ -58,8 +58,9 @@ Short videos of these labs are on my [LinkedIn](https://www.linkedin.com/in/perh
 - **AI / data:** PyTorch, CUDA, Pandas, transfer learning
 - **Backend:** ASP.NET Core, Entity Framework Core, Azure SQL, REST APIs
 - **Robotics tools:** TMflow, ABB robots, LEGO EV3, mBot
-- **Simulation / game dev:** Unreal Engine 5 (Blueprints), 2023-2024
+- **Simulation / game dev:** Unreal Engine 5
 
 ## More
 
+- [Unreal Engine 5 gameplay prototypes](https://github.com/Perhovin/ue5-gameplay-prototypes): 9 short gameplay-mechanic demos and a level blockout (2023).
 - [C# OOP coursework](https://github.com/Perhovin/csharp-oop-coursework): 15 small projects from classes to a final project.
