@@ -62,5 +62,5 @@ Short videos of these labs are on my [LinkedIn](https://www.linkedin.com/in/perh
 
 ## More
 
-- [Unreal Engine 5 gameplay prototypes](https://github.com/Perhovin/ue5-gameplay-prototypes): 9 short gameplay-mechanic demos and a level blockout (2023).
+- [Unreal Engine 5 gameplay prototypes](https://github.com/Perhovin/ue5-gameplay-prototypes): 10 short gameplay-mechanic demos and a level blockout (2023).
 - [C# OOP coursework](https://github.com/Perhovin/csharp-oop-coursework): 15 small projects from classes to a final project.
