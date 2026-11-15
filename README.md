@@ -3,7 +3,7 @@
 Robotics student at Tomas Bata University in Zlín (UTB), Czech Republic. Bachelor in Robotics, 2025-2028.
 
 **Looking for an internship in Robotics / AI** (Zlín, on-site, hybrid or remote).
-[LinkedIn](https://www.linkedin.com/in/perhovin/)
+[LinkedIn](https://www.linkedin.com/in/perhovin/) | [CV (PDF)](https://github.com/Perhovin/Perhovin/blob/main/Mykhailo_Shelestiuk_CV.pdf)
 
 ## Featured projects
 
