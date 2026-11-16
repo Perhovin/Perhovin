@@ -11,6 +11,16 @@ Robotics student at Tomas Bata University in Zlín (UTB), Czech Republic. Bachel
 <tr>
 <td width="33%" valign="top">
 
+**[Cracker Quality Control](https://github.com/Perhovin/cracker-quality-control)**
+<br>AI / Computer Vision
+
+ResNet18 classifier (PyTorch, CUDA) trained on 206 of my own phone photos. Checks crackers live through a phone camera. On 49 unseen photos: 44 correct (90%), 22 of 25 defects found.
+
+<a href="https://github.com/Perhovin/cracker-quality-control"><img src="https://raw.githubusercontent.com/Perhovin/cracker-quality-control/main/docs/demo.gif" alt="Cracker Quality Control"></a>
+
+</td>
+<td width="33%" valign="top">
+
 **[Hazelnut Quality Control](https://github.com/Perhovin/hazelnut-quality-control)**
 <br>AI / Computer Vision
 
@@ -29,16 +39,6 @@ ASP.NET Core Razor Pages app that turns one prompt into an image (MAI-Image-2.6)
 <a href="https://github.com/Perhovin/ai-image-text-generator-aspnet"><img src="https://raw.githubusercontent.com/Perhovin/ai-image-text-generator-aspnet/main/docs/screenshots/02-generated-image.png" alt="AI Image and Text Generator"></a>
 
 </td>
-<td width="33%" valign="top">
-
-**[Company Backend](https://github.com/Perhovin/company-backend)**
-<br>Software / Backend
-
-.NET 10 Minimal API with EF Core and Azure SQL: CRUD and search, layered design, Swagger UI, connection string in Secret Manager.
-
-<a href="https://github.com/Perhovin/company-backend"><img src="https://raw.githubusercontent.com/Perhovin/company-backend/main/docs/screenshots/01-swagger-overview.png" alt="Company Backend"></a>
-
-</td>
 </tr>
 </table>
 
@@ -55,12 +55,13 @@ Short videos of these labs are on my [LinkedIn](https://www.linkedin.com/in/perh
 ## Tech stack
 
 - **Languages:** Python, C#
-- **AI / data:** PyTorch, CUDA, Pandas, transfer learning
+- **AI / data:** PyTorch, CUDA, OpenCV, Pandas, transfer learning
 - **Backend:** ASP.NET Core, Entity Framework Core, Azure SQL, REST APIs
 - **Robotics tools:** TMflow, ABB robots, LEGO EV3, mBot
 - **Simulation / game dev:** Unreal Engine 5
 
 ## More
 
+- [Company Backend](https://github.com/Perhovin/company-backend): .NET 10 Minimal API with EF Core and Azure SQL, CRUD and search, layered design, Swagger UI.
 - [Unreal Engine 5 gameplay prototypes](https://github.com/Perhovin/ue5-gameplay-prototypes): 10 short gameplay-mechanic demos and a level blockout (2023).
 - [C# OOP coursework](https://github.com/Perhovin/csharp-oop-coursework): 15 small projects from classes to a final project.
