@@ -31,12 +31,12 @@ ResNet18 classifier (PyTorch, CUDA) that sorts hazelnut photos into OK / NG, wit
 </td>
 <td width="33%" valign="top">
 
-**[AI Image and Text Generator](https://github.com/Perhovin/ai-image-text-generator-aspnet)**
-<br>Software / AI
+**[Gesture-Controlled 3D Object](https://github.com/Perhovin/gesture-3d)**
+<br>Computer Vision / 3D
 
-ASP.NET Core Razor Pages app that turns one prompt into an image (MAI-Image-2.6) and a text answer (gpt-5) through Microsoft Foundry. Async calls, secrets kept out of the repo.
+Browser app that controls a 3D cube with hand gestures through a webcam (MediaPipe Hands + Three.js). Left hand rotates, right hand scales with a pinch — inspired by Apple Vision Pro.
 
-<a href="https://github.com/Perhovin/ai-image-text-generator-aspnet"><img src="https://raw.githubusercontent.com/Perhovin/ai-image-text-generator-aspnet/main/docs/screenshots/02-generated-image.png" alt="AI Image and Text Generator"></a>
+<a href="https://github.com/Perhovin/gesture-3d"><img src="https://raw.githubusercontent.com/Perhovin/gesture-3d/main/demo.gif" alt="Gesture-Controlled 3D Object"></a>
 
 </td>
 </tr>
